@@ -1,4 +1,4 @@
-# Git lesson
+# Git lesson - 1
 
 This repository contains the files used for a git lesson.
 
